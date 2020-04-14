@@ -1,0 +1,11 @@
+{
+    "name": "Unity.com.emt.navmesh.Editor",
+    "references": ["Unity.com.emt.navmesh.Runtime"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
